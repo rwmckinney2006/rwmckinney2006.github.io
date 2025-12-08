@@ -4,3 +4,12 @@ description: Ryan McKinney's Portfolio
 author: Ryan McKinney
 email: rwmckinney2006@gmail.com
 logo: Formal Photo.jpg
+menu:
+  - title: Home
+    url: index.md
+  - title: About Me
+    url: about_me.md
+  - title: Projects
+    url: projects.md
+  - title: Contact Me
+    url: contact_me.md
