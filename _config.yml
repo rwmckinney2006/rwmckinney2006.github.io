@@ -1,15 +1,9 @@
-theme: jekyll-theme-minimal
-title: Portfolio
-description: Ryan McKinney's Portfolio
+theme: minima
+title: Ryan McKinney's Portfolio
+description: Data Science Student at St. Bonaventure
 author: Ryan McKinney
 email: rwmckinney2006@gmail.com
-logo: Formal Photo.jpg
-menu:
-  - title: Home
-    url: index.md
-  - title: About Me
-    url: about_me.md
-  - title: Projects
-    url: projects.md
-  - title: Contact Me
-    url: contact_me.md
+header_pages:
+  - about_me.md
+  - projects.md
+  - contact_me.md
