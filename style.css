@@ -15,9 +15,9 @@ body {
     margin: 0;
     text-align: left;
 
-    .profile-pic {
+}
+.profile-pic {
         width: 100px;
         height: auto;
-        border-radius: 50%;
-    }
+        border-radius: 10px;
 }
