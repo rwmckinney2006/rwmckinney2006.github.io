@@ -11,19 +11,10 @@ body {
     border-radius: 10px;
     width: 300px;
     padding: 20px;
-    height: 30%;
-    margin: 0;
-    text-align: left;
+    text-align: center;
     
 }
 .profile img {
     width: 150px;
     border-radius: 10px;
-    position: center;
-}
-.profile h1 {
-    position: center;
-}
-.profile p {
-    position: center;
 }
