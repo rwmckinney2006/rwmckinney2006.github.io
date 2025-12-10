@@ -16,5 +16,8 @@ body {
 }
 .profile img {
     width: 150px;
+    height: auto;
+    max-width: 100%;
     border-radius: 10px;
+    display: block;
 }
