@@ -14,4 +14,10 @@ body {
     height: 100vh;
     margin: 0;
     text-align: left;
+
+    .profile-pic {
+        width: 100px;
+        height: auto;
+        border-radius: 50%;
+    }
 }
